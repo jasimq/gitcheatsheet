@@ -1,5 +1,5 @@
 #####Get remote repo url
-git remote show origin  
+git remote show origin  return
 
 
 #####Change git message before commit
