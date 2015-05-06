@@ -1,6 +1,7 @@
 #####Get remote repo url
 git remote show origin
   
+  
 #####Change git message before commit
 git commit --amend -m "New commit message"
 
